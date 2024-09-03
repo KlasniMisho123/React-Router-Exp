@@ -1,0 +1,5 @@
+Updateing Data
+
+Just like creating data, you update data with
+ <Form>. Let's make a new route at contacts/:contactId/edit. Again, we'll start with the
+  component and then wire it up to the route config.
